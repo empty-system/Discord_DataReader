@@ -22,4 +22,4 @@ But here is the command to use DDR
 > I'm really not an expert in Python, if you have any council i would appreciate it.
 
 # Contact
-Discord: Empty#0007
+Discord: empty#0007
