@@ -1,5 +1,5 @@
 # Discord_DataReader
-Read the package.zip from discord, it will store the data of "messages" inside an xlsx
+Read the package.zip from discord, it will store the data of "messages" inside a xlsx
 
 # Prerequisites
 * Python 3+
